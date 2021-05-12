@@ -1,3 +1,3 @@
-Twitter Sentiment Analysis app
+# Twitter Sentiment Analysis App Front-End 
 
-this is the front-end of the twitter sentiment analysis app built using React-Native Expo
+This is the front-end of the twitter sentiment analysis app built using React-Native Expo
